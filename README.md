@@ -19,7 +19,7 @@ This repository contains the source code for a Microservices-Based Student & Sch
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Git](https://git-scm.com/)
-- [Docker](https://www.docker.com/) (Optional: Required if using Docker for microservices)
+
 
 
 ### Installation Steps
@@ -36,15 +36,7 @@ This repository contains the source code for a Microservices-Based Student & Sch
     cd microservices-student-school
     ```
 
-3. **Run the microservices:**
 
-    - If using Docker:
-
-        ```bash
-        docker-compose up
-        ```
-
-    - If running each microservice individually, follow the instructions in their respective directories.
 
 4. **Access the APIs:**
 
